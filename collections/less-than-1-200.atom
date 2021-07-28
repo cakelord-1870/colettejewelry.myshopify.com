@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://colettejewelry.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://colettejewelry.myshopify.com/collections/less-than-1-200.atom"/>
+  <title>Colette Jewelry</title>
+  <updated>2021-06-29T15:16:22-07:00</updated>
+  <author>
+    <name>Colette Jewelry</name>
+  </author>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6731090526381</id>
+    <published>2021-06-29T15:16:22-07:00</published>
+    <updated>2021-06-29T15:16:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/silk-inoui-scrave"/>
+    <title>SILK INOUI SCRAVE</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/IMG_4655.jpg?v=1622497593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Carré Green 52% silk and 48% Modal with a twill weave and sewn edges.</p>
+<p data-mce-fragment="1">Saga : Story of Inoui</p>
+<p data-mce-fragment="1">Measurements : 130 X 130cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6731090526381</id>
+      <title>Default Title</title>
+      <s:price currency="USD">470.00</s:price>
+      <s:sku>ET13JAG31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6731083940013</id>
+    <published>2021-06-29T15:16:22-07:00</published>
+    <updated>2021-06-29T15:16:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/silk-paris-scrave"/>
+    <title>SILK PARIS SCRAVE</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/IMG_4654.jpg?v=1622497450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Carré Multicolor 52% silk and 48% Modal with a twill weave and sewn edges.</p>
+<p data-mce-fragment="1">Saga : Sheetah</p>
+<p data-mce-fragment="1">Measurements : 130 X 130cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6731083940013</id>
+      <title>Default Title</title>
+      <s:price currency="USD">470.00</s:price>
+      <s:sku>ET13JAG30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6731076403373</id>
+    <published>2021-06-29T15:16:21-07:00</published>
+    <updated>2021-06-29T15:16:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/silk-sheetah-scrave"/>
+    <title>SILK SHEETAH SCRAVE</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/ET13JAG29_TURQUOISE_1.jpg?v=1622497284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carré Orange 52% silk and 48% Modal with a twill weave and sewn edges.</p>
+<p>Saga : Sheetah</p>
+<p>Measurements : 130 X 130cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6731076403373</id>
+      <title>Default Title</title>
+      <s:price currency="USD">470.00</s:price>
+      <s:sku>ET13JAG29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6731064377517</id>
+    <published>2021-06-29T15:16:20-07:00</published>
+    <updated>2021-06-29T15:16:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/silk-triangle-2"/>
+    <title>SILK TRIANGLE</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/ET13GOL32_NUDE_1.jpg?v=1622496998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Goliath Nude / reverse of parrot feathers from head to toe.</p>
+<p data-mce-fragment="1">100% silk orange twill weave and fringed edges.</p>
+<p data-mce-fragment="1">Pattern : Animal</p>
+<p data-mce-fragment="1">Measurements : 130 X 184 X 130cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6731064377517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>ET13GOL10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6731057070253</id>
+    <published>2021-06-29T15:16:19-07:00</published>
+    <updated>2021-06-29T15:16:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/silk-triangle-1"/>
+    <title>SILK TRIANGLE</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/ET13GOL11_GOLDENBROWN_1.jpg?v=1622496818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Goliath Yellow / reverse of parrot feathers from head to toe.</p>
+<p data-mce-fragment="1">100% silk orange twill weave and fringed edges.</p>
+<p data-mce-fragment="1">Pattern : Animal</p>
+<p data-mce-fragment="1">Measurements : 130 X 184 X 130cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6731057070253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>ET13GOL09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6731051335853</id>
+    <published>2021-06-29T15:16:19-07:00</published>
+    <updated>2021-06-29T15:16:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/silk-triangle"/>
+    <title>SILK TRIANGLE</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/ET13GOL08_ORANGE_1.jpg?v=1622496705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Goliath Orange / reverse of parrot feathers from head to toe.</p>
+<p>100% silk orange twill weave and fringed edges.</p>
+<p>Pattern : Animal</p>
+<p>Measurements : 130 X 184 X 130cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6731051335853</id>
+      <title>Default Title</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>ET13GOL08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6731029577901</id>
+    <published>2021-06-29T15:16:18-07:00</published>
+    <updated>2021-06-29T15:16:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/pareo-balto"/>
+    <title>Pareo Balto</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/ET13BAL02_NATURAL_1.jpg?v=1622496223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Balto / Wild diner engraved on color background </p>
+<p>Beige scarf 80% cotton. 20% silk with a mat weave</p>
+<p>Pattern : Animal</p>
+<p>Measurements : 100 X 190cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6731029577901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>ET13BAL02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6731014308013</id>
+    <published>2021-06-29T15:16:17-07:00</published>
+    <updated>2021-06-29T15:16:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/pareo-leopard"/>
+    <title>Pareo Leopard</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/ET13LEO26_EMERALD_1.jpg?v=1622495904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leopard Leo goes to the Lily in the valley.</p>
+<p><meta charset="utf-8"><span>80% cotton. 20% silk with a mat weave</span></p>
+<p>Pattern : animal</p>
+<p>Measurements : 100 X 190cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6731014308013</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>ET13E026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6730999365805</id>
+    <published>2021-06-29T15:16:17-07:00</published>
+    <updated>2021-06-29T15:16:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/fouta-wave"/>
+    <title>Fouta Wave</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/FO13OCE24_NAVY_1.jpg?v=1622495563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oceanic Thalassa,</p>
+<p>Superposition of the 2 empires of the seas and the heavens</p>
+<p>Blue Fouta 100% Cotton</p>
+<p>Pattern : Landscape</p>
+<p>Measurements : 100 X 200cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6730999365805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>FO13KIN06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6730977181869</id>
+    <published>2021-06-29T15:16:16-07:00</published>
+    <updated>2021-06-29T15:16:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/fouta-king"/>
+    <title>Fouta King</title>
+    <s:type>scarves</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/FO13KIN04_BLUE_1.jpg?v=1622495176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>scarves<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fouta King / playing card for feline in bloom</p>
+<p>White scarf 100% cotton with a mate weave</p>
+<p>Pattern : animal</p>
+<p>Measurements : 100 X 190cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6730977181869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>FO13KIN05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6730958831789</id>
+    <published>2021-06-29T15:16:15-07:00</published>
+    <updated>2021-06-29T15:16:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/fouta-queen"/>
+    <title>Fouta Queen</title>
+    <s:type>SCARVES</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/FO13QUE09_YELLOW_1.jpg?v=1622494855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SCARVES<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<pre dir="ltr" data-placeholder="Traduction" class="tw-data-text tw-text-large XcVN5d tw-ta" data-mce-fragment="1"><strong><br></strong></pre>
+<p>Fouta Queen / playing card for feline in bloom</p>
+<p>White scarf 100% cotton with a mate weave</p>
+<p>Pattern : animal</p>
+<p>Measurements : 100 X 190cm</p>
+<pre dir="ltr" id="tw-target-text" data-placeholder="Traduction" class="tw-data-text tw-text-large XcVN5d tw-ta" data-mce-fragment="1"><strong></strong><br></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6730958831789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>FO13KIN04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727338229933</id>
+    <published>2021-06-29T15:15:52-07:00</published>
+    <updated>2021-06-29T15:15:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/pyramide-des-tropiques-chocolate"/>
+    <title>PYRAMIDE des TROPIQUES chocolate</title>
+    <s:type>CHOCOLATE</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/image002.jpg?v=1622558496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>CHOCOLATE<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">François speaks about chocolate as he could speak about wine. As chocolate has his own taste regarding where it comes from.</span></p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">La pyramides tropiques is 500gr of chocolate displayed in 10 slices. </span><span class="s1" data-mce-fragment="1">Each slice has cocoa bean from different country : Papouasie, Indonesia, Sao Tome, Trinidad, Venezuela, Tanzania, Ghana, Madagascar, Columbia, Equator.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727338229933</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>CHOCO001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727329874093</id>
+    <published>2021-06-29T15:13:40-07:00</published>
+    <updated>2021-06-29T15:13:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/sand-butcher-hat"/>
+    <title>SAND BUTCHER HAT</title>
+    <s:type>SAND BUTCHER</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/bobDavidLucasxronron2021.jpg?v=1622254995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>SAND BUTCHER<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p2" data-mce-fragment="1">GREEN SAND BUTCHER HAT</p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">100% organic cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727329874093</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>SAND000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727325253805</id>
+    <published>2021-06-29T15:13:40-07:00</published>
+    <updated>2021-06-29T15:13:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/cap-soleil-5"/>
+    <title>CAP SOLEIL</title>
+    <s:type>cap</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/casquetteDavidLucasxronron2021bleuciel.jpg?v=1622254797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>cap<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Cap adjustable</span></p>
+<p class="p2" data-mce-fragment="1"><span class="s1" data-mce-fragment="1"></span>Baby Baby Blue SOLEIL</p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">100% organic cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727325253805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CAP006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727321911469</id>
+    <published>2021-06-29T15:13:39-07:00</published>
+    <updated>2021-06-29T15:13:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/cap-soleil-4"/>
+    <title>CAP SOLEIL</title>
+    <s:type>cap</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/casquetteDavidLucasxronron2021kaki.jpg?v=1622254674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>cap<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Cap adjustable</span></p>
+<p class="p2" data-mce-fragment="1"><span class="s1" data-mce-fragment="1"></span>Baby Kaki SOLEIL</p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">100% organic cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727321911469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CAP005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727318601901</id>
+    <published>2021-06-29T15:13:39-07:00</published>
+    <updated>2021-06-29T15:13:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/cap-soleil-3"/>
+    <title>CAP SOLEIL</title>
+    <s:type>CAP</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/CORAIL.jpg?v=1622254546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>CAP<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Cap adjustable</span></p>
+<p class="p2" data-mce-fragment="1"><span class="s1" data-mce-fragment="1"></span>Baby CORAIL SOLEIL</p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">100% organic cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727318601901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CAP004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727314538669</id>
+    <published>2021-06-29T15:13:38-07:00</published>
+    <updated>2021-06-29T15:13:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/cap-soleil-2"/>
+    <title>CAP SOLEIL</title>
+    <s:type>cap</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/casquetteDavidLucasxronron2021bleu.jpg?v=1622254403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>cap<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Cap adjustable</span></p>
+<p class="p2" data-mce-fragment="1"><span class="s1" data-mce-fragment="1"></span>Baby Navy Blue SOLEIL</p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">100% organic cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727314538669</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CAP003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727300186285</id>
+    <published>2021-06-29T15:13:37-07:00</published>
+    <updated>2021-06-29T15:13:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/cap-soleil-1"/>
+    <title>CAP SOLEIL</title>
+    <s:type>cap</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/casquetteDavidLucasxronron2021jaune.jpg?v=1622254013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>cap<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1" class="p1"><span data-mce-fragment="1" class="s1">Cap adjustable</span></p>
+<p data-mce-fragment="1" class="p2"><span data-mce-fragment="1" class="s1"></span>Yellow SOLEIL</p>
+<p data-mce-fragment="1" class="p1"><span data-mce-fragment="1" class="s1">100% organic cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727300186285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CAP002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727293796525</id>
+    <published>2021-06-29T15:13:37-07:00</published>
+    <updated>2021-06-29T15:13:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/cap-soleil"/>
+    <title>CAP SOLEIL</title>
+    <s:type>CASQUETTE</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/casquetteDavidLucasxronron2021rose.jpg?v=1622253828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>CASQUETTE<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Cap adjustable</span></p>
+<p class="p2" data-mce-fragment="1"><span class="s1" data-mce-fragment="1"></span>Baby Pink SOLEIL</p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">100% organic cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727293796525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CAP001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727280591021</id>
+    <published>2021-06-29T15:13:36-07:00</published>
+    <updated>2021-06-29T15:13:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/sun-hair-spray-for-beautiful-women-only"/>
+    <title>Sun Hair Spray for beautiful women only</title>
+    <s:type>COSMETIC</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/brume.jpg?v=1622558364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>COSMETIC<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Protection against sun &amp; salty wind</span></p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Natural Wavy style</span></p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">organic and green</span></p>
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">100ml</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727280591021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>HAIR001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727274725549</id>
+    <published>2021-06-29T15:13:35-07:00</published>
+    <updated>2021-06-29T15:13:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/tee-shirt-soleil-2"/>
+    <title>Tee shirt SOLEIL</title>
+    <s:type>tee shirt</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/teeshirtsoleilgrisDavidLucasxronron2021.jpg?v=1622253190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>tee shirt<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The timeless SOLEIL tee shirt designed by Ron Ron and David Lucas is 100% organic cotton. Grey Color.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727274725549</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>TSHIRT01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727268008109</id>
+    <published>2021-06-29T15:13:35-07:00</published>
+    <updated>2021-06-29T15:13:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/tee-shirt-soleil-1"/>
+    <title>Tee shirt SOLEIL</title>
+    <s:type>tee shirt</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/teeshirtsoleilvertDavidLucasxronron2021.jpg?v=1622252962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>tee shirt<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The timeless SOLEIL tee shirt designed by Ron Ron and David Lucas is 100% organic cotton. Deep Green.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727268008109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>TSHIRT02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6727259881645</id>
+    <published>2021-06-29T15:13:34-07:00</published>
+    <updated>2021-06-29T15:13:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/tee-shirt-soleil"/>
+    <title>Tee shirt SOLEIL</title>
+    <s:type>tee shirt</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/teeshirtsoleilbleuDavidLucasxronron2021.jpg?v=1622252661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>tee shirt<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The timeless SOLEIL tee shirt designed by Ron Ron and David Lucas is 100% organic cotton. Ultra bright turquoise.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6727259881645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>TSHIRT03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6728925380781</id>
+    <published>2021-06-29T15:08:54-07:00</published>
+    <updated>2021-06-29T15:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/trip-backgammon-3"/>
+    <title>Trip Backgammon</title>
+    <s:type>GAME</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/hectorsaxe-ecommerce-062020_1709-hd.jpg?v=1622332662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>GAME<br>
+        <strong>Price: </strong>
+            532.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Trip Backgammon Plaster</p>
+<p data-mce-fragment="1">Now you can travel and play anywhere with Victor Travel Backgammon! Thanks to its rolled format and light weight, it can be easily transported in a suitcase or even a bag. On the plane, at the beach, at the swimming pool, at the restaurant, all playgrounds are now possible.<br data-mce-fragment="1"><br data-mce-fragment="1">Tokens and dice are stored in the integrated pocket.</p>
+<p data-mce-fragment="1">Measurements open : <span data-mce-fragment="1">51cm x 28cm</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">Made in France.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6728925380781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">532.00</s:price>
+      <s:sku>BV11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6728924332205</id>
+    <published>2021-06-29T15:08:53-07:00</published>
+    <updated>2021-06-29T15:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/trip-backgammon-2"/>
+    <title>Trip Backgammon</title>
+    <s:type>games</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/hectorsaxe-ecommerce-062020_1724-hd.jpg?v=1622332532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>games<br>
+        <strong>Price: </strong>
+            532.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Trip Backgammon Orange</p>
+<p data-mce-fragment="1">Now you can travel and play anywhere with Victor Travel Backgammon! Thanks to its rolled format and light weight, it can be easily transported in a suitcase or even a bag. On the plane, at the beach, at the swimming pool, at the restaurant, all playgrounds are now possible.<br data-mce-fragment="1"><br data-mce-fragment="1">Tokens and dice are stored in the integrated pocket.</p>
+<p data-mce-fragment="1">Measurements open : <span data-mce-fragment="1">51cm x 28cm</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">Made in France.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6728924332205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">532.00</s:price>
+      <s:sku>BV10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

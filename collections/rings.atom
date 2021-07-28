@@ -1,0 +1,2178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://colettejewelry.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://colettejewelry.myshopify.com/collections/rings.atom"/>
+  <title>Colette Jewelry</title>
+  <updated>2021-04-29T00:21:32-07:00</updated>
+  <author>
+    <name>Colette Jewelry</name>
+  </author>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+    <published>2021-04-29T00:21:32-07:00</published>
+    <updated>2021-04-29T00:21:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/black-white-eternity-ring"/>
+    <title>PAVÉ SIGNET RING BLACK GOLD</title>
+    <s:type>ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2016-11-2916-01-29_C_1_9872d8a9-9384-446b-88d6-2f9de77d0bb4.jpg?v=1619680833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>ring<br>
+        <strong>Price: </strong>
+            1420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">Pavé Signet Ring</p>
+<p class="p1"><span>Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars. </span></p>
+<ul>
+<li>18-karat black gold ring</li>
+<li>Set with 0.19 ctw black diamonds</li>
+<li>Set with 0.04 ctw whitediamonds</li>
+<li>Measurements 1 cm diameter</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships in 3 to 4 weeks</li>
+</ul>
+<p><a title="Colette Jewelry Ring Size Guide" href="https://cdn.shopify.com/s/files/1/0934/3824/files/Colette_Jewelry_-_Ring_Size_Guide.pdf?17787190511101709766" target="_blank">﻿Ring Size Guide</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>3</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>3.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>4</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>4.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>5.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>6</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>6.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>7</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>7.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>8</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>8.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>9</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>9.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>10</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>10.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>11</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/929268236349</id>
+      <title>11.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+    <published>2021-04-14T00:14:21-07:00</published>
+    <updated>2021-04-14T00:14:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/bold-star-ring"/>
+    <title>Bold Star Ring Enamel, 15 colors</title>
+    <s:type>ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/IMG_2931.jpg?v=1618384458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>ring<br>
+        <strong>Price: </strong>
+            3971.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="textbox" dir="ltr"><span>Bold Star Ring Enamel, 15 colors</span></p>
+<p class="textbox" dir="ltr"><span><meta charset="utf-8">Colette began working with colorful enamel as a way of injecting a little humor &amp; playfulness into her most recognized collection, Galaxia. Highly influenced by Warhol &amp; Kandinsky, this series features a punchy color palette that meant to evoke a feeling of pure joy. </span></p>
+<p class="textbox" dir="ltr"><span>18-Karat yellow gold Bold Blue Star Ring </span></p>
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li>Set with 0.59 carats of white diamonds</li>
+<li>Slips On</li>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://cdn.shopify.com/s/files/1/0934/3824/files/Colette_Jewelry_-_Ring_Size_Guide.pdf?17787190511101709766" title="Colette Jewelry Ring Size Guide" class="text-link" target="_blank">Ring Size Guide</a></p>
+<p> </p>
+<p><em>This product may not be in stock. In the case it is custom please allow 2-3 weeks for production and shipment, possibly sooner. We will send a confirmation of the order email to make sure of the details.</em></p>
+<p><i>Made in the USA</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>3</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>3.5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>4</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>4.5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>5.5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>6</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>6.5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>7</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>7.5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>8</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>8.5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>9</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>9.5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>10</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>10.5</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1519653617725</id>
+      <title>11</title>
+      <s:price currency="USD">3971.00</s:price>
+      <s:sku>RIGA131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+    <published>2021-03-25T05:23:55-07:00</published>
+    <updated>2021-03-25T05:23:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/eternity-ring"/>
+    <title>Eternity Ring</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2017-12-19_17-23-25_C_1.jpg?v=1522518729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            4057.00 - 4099.00
+            <a href="https://colettejewelry.myshopify.com/products/eternity-ring">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18K PG Eternity Ring 1.06ctw Pave White Diamonds</p>
+<meta charset="utf-8"><meta charset="utf-8">
+<ul>
+<li>Please specify ring sizes in notes when placing the order.</li>
+</ul>
+<p><a href="https://cdn.shopify.com/s/files/1/0934/3824/files/Colette_Jewelry_-_Ring_Size_Guide.pdf?17787190511101709766" target="_blank" title="Colette Jewelry Ring Size Guide" rel="noopener noreferrer">﻿Ring Size Guide</a></p>
+<p><em>This product may not be in stock. In the case it is custom please allow 2-3 weeks for production and shipment, possibly sooner. We will send a confirmation of the order email to make sure of the details.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>Pink Gold / 5</title>
+      <s:price currency="USD">4057.00</s:price>
+      <s:sku>RIGA138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>Pink Gold / 5.5</title>
+      <s:price currency="USD">4057.00</s:price>
+      <s:sku>RIGA139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>Pink Gold / 6</title>
+      <s:price currency="USD">4057.00</s:price>
+      <s:sku>RIGA140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>Pink Gold / 6.5</title>
+      <s:price currency="USD">4057.00</s:price>
+      <s:sku>RIGA141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>Pink Gold / 7</title>
+      <s:price currency="USD">4057.00</s:price>
+      <s:sku>RIGA142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>Pink Gold / 7.5</title>
+      <s:price currency="USD">4057.00</s:price>
+      <s:sku>RIGA143</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>Pink Gold / 8</title>
+      <s:price currency="USD">4057.00</s:price>
+      <s:sku>RIGA144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>Pink Gold / 8.5</title>
+      <s:price currency="USD">4057.00</s:price>
+      <s:sku>RIGA145</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>White Gold / 5</title>
+      <s:price currency="USD">4099.00</s:price>
+      <s:sku>RIGA146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>White Gold / 5.5</title>
+      <s:price currency="USD">4099.00</s:price>
+      <s:sku>RIGA147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>White Gold / 6</title>
+      <s:price currency="USD">4099.00</s:price>
+      <s:sku>RIGA148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>White Gold / 6.5</title>
+      <s:price currency="USD">4099.00</s:price>
+      <s:sku>RIGA149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>White Gold / 7</title>
+      <s:price currency="USD">4099.00</s:price>
+      <s:sku>RIGA150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>White Gold / 7.5</title>
+      <s:price currency="USD">4099.00</s:price>
+      <s:sku>RIGA151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>White Gold / 8</title>
+      <s:price currency="USD">4099.00</s:price>
+      <s:sku>RIGA152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/598248652861</id>
+      <title>White Gold / 8.5</title>
+      <s:price currency="USD">4099.00</s:price>
+      <s:sku>RIGA153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+    <published>2021-03-25T04:54:24-07:00</published>
+    <updated>2021-03-25T04:54:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/cage-star-diamond-ring"/>
+    <title>Cage Star Diamond Ring - Three Colors</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2019-09-16_16-03-48.jpg?v=1616673253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            3570.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Cage Star Diamond Ring</div>
+<ul>
+<li>18-karat white gold ring </li>
+<li>Measurements 1.7 cm wide by 2.3 cm long </li>
+<li>Set with 0.56 ctw white diamonds </li>
+<li>Slip On</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships in 1 to 2 weeks</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:tag>Twinkle Galaxia</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>5 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA354</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>5 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA355</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>5 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA356</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>5.5 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA357</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>5.5 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA358</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>5.5 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA359</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>6 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>6 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>6 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>6.5 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>6.5 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA364</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>6.5 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>7 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>7 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA367</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>7 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA368</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>7.5 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA369</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>7.5 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>7.5 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>8 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>8 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>8 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>8.5 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>8.5 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA376</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>8.5 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>9 / Yellow Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA378</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>9 / White Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA379</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4404635074693</id>
+      <title>9 / Rose Gold</title>
+      <s:price currency="USD">3570.00</s:price>
+      <s:sku>RIGA380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+    <published>2021-03-25T04:44:45-07:00</published>
+    <updated>2021-03-25T04:44:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/pave-signet-ring"/>
+    <title>PAVE SIGNET RING WHITE GOLD</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2016-11-2916-01-45_C.jpg?v=1619680928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            1420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Pavé Signet Ring</p>
+<p class="p1"><span>Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars. </span></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<ul>
+<li>18-karat white gold ring</li>
+<li>Set with 0.19 ctw white diamonds</li>
+<li>Set with 0.04 ctw black diamonds</li>
+<li>Measurements 1 cm diameter</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships in 3 to 4 weeks</li>
+</ul>
+<p><a href="https://cdn.shopify.com/s/files/1/0934/3824/files/Colette_Jewelry_-_Ring_Size_Guide.pdf?17787190511101709766" title="Colette Jewelry Ring Size Guide" target="_blank">﻿Ring Size Guide</a></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+      <title>3</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>RIGA111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+      <title>3.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>RIGA112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+      <title>4</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>RIGA113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+      <title>4.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>RIGA114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+      <title>5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>RIGA115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+      <title>5.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>RIGA116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+      <title>6</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>RIGA117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4967493566597</id>
+      <title>6.5</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>RIGA118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/3095317573</id>
+    <published>2021-02-17T01:58:04-08:00</published>
+    <updated>2021-02-17T01:58:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/bryanna"/>
+    <title>Bryanna  Ring</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/EAAT026.jpg?v=1511153773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            4225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bryanna Ring</span></p>
+<p><span><span>The Atame Collection is the physical embodiment of the liaison between lovers; totally attached, very fluid and romantic. “Atame” meaning “tie me up” in Spanish, is all about lovers sharing a life, while equally being tied up in one another. </span></span></p>
+<ul>
+<li>18-karat black gold ring</li>
+<li>Set with 1.03 ctw white diamonds</li>
+<li>Two Piece Ring Set </li>
+</ul>
+<ul>
+<li>Ships Immediately </li>
+</ul>
+<p> </p>
+<meta charset="utf-8">
+<p><br></p>
+<p><br></p>
+<p><em><br></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/3095317573</id>
+      <title>5 / Black Diamonds &amp; White Diamonds</title>
+      <s:price currency="USD">4225.00</s:price>
+      <s:sku>RIAT008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/3095317573</id>
+      <title>6 / Black Diamonds &amp; White Diamonds</title>
+      <s:price currency="USD">4225.00</s:price>
+      <s:sku>RIAT008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/3095317573</id>
+      <title>7 / Black Diamonds &amp; White Diamonds</title>
+      <s:price currency="USD">4225.00</s:price>
+      <s:sku>RIAT008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/3095317573</id>
+      <title>8 / Black Diamonds &amp; White Diamonds</title>
+      <s:price currency="USD">4225.00</s:price>
+      <s:sku>RIAT008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6116735811757</id>
+    <published>2020-12-04T08:52:00-08:00</published>
+    <updated>2020-12-04T08:52:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/santos-signet-sorrowful-mother-1"/>
+    <title>Santos Signet Sorrowful Mother</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/IMG_7123_Final.jpg?v=1607100721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2810.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">18K Yellow Gold Santos y Cielos Signet Ring Sorrowful Holly to protect you and the ones that he faces. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Enamel and .17 green Sapphire</li>
+</ul>
+<ul data-mce-fragment="1"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>santos y cielos</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6116735811757</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2810.00</s:price>
+      <s:sku>RISC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6116544020653</id>
+    <published>2020-12-04T06:43:19-08:00</published>
+    <updated>2020-12-04T06:43:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/heart-penacho-ring"/>
+    <title>Heart Penacho Ring</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-09-2315-42-59.jpg?v=1607093003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            3320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Heart Penacho Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold ring</li>
+<li data-mce-fragment="1">Set with 0.68 ctw multicolor Sapphires</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6116544020653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3320.00</s:price>
+      <s:sku>RIPN030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/1880514363453</id>
+    <published>2020-12-04T06:09:35-08:00</published>
+    <updated>2020-12-04T06:09:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/pink-sapphire-ring-1"/>
+    <title>Pink Sapphire Ring</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2019-02-11_16-02-22.jpg?v=1556059793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2440.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>18-Karat yellow rainbow ring</p>
+<ul>
+<li>Set with 2.60 carats of pink sapphire</li>
+</ul>
+<span>Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1880514363453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2440.00</s:price>
+      <s:sku>RICF006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/1880538873917</id>
+    <published>2020-12-04T06:09:04-08:00</published>
+    <updated>2020-12-04T06:09:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/pink-sapphire-ring-2"/>
+    <title>Pink Sapphire Ring</title>
+    <s:type>ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2019-02-11_16-03-25.jpg?v=1556064662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>ring<br>
+        <strong>Price: </strong>
+            3486.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>18-Karat yellow pink sapphire</p>
+<ul>
+<li>Set with 3.06 carats of pink sapphire</li>
+</ul>
+<span>Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1880538873917</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3486.00</s:price>
+      <s:sku>RICF004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6113959018669</id>
+    <published>2020-12-03T11:21:48-08:00</published>
+    <updated>2020-12-03T11:21:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/star-ring-1"/>
+    <title>Star Ring</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/PHOTO-2021-03-08-17-25-106.jpg?v=1616671543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">Star Diamond Ring</div>
+<div data-mce-fragment="1"><br></div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars. </span></div>
+<div data-mce-fragment="1"><br></div>
+</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat gold </li>
+<li data-mce-fragment="1">Set with 0.58 ctw white diamonds</li>
+<li data-mce-fragment="1">Measurements 3 cm long </li>
+<li data-mce-fragment="1">Slip On</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 3 to 4 weeks</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6113959018669</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2900.00</s:price>
+      <s:sku>RIGA363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108538273965</id>
+    <published>2020-12-01T07:43:00-08:00</published>
+    <updated>2020-12-01T07:43:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/penacho-classic-ring-mother-of-pearl"/>
+    <title>PENACHO CLASSIC RING Mother of Pearl</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-09-2315-43-15.jpg?v=1616771283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            1890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Heart Penacho Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold ring</li>
+<li data-mce-fragment="1">Set with 0.30 ctw withe diamond</li>
+<li data-mce-fragment="1">Set with 0.34 ctw MOP</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PENACHO</s:tag>
+    <s:tag>ring</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108538273965</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1890.00</s:price>
+      <s:sku>RIPN026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108531851437</id>
+    <published>2020-12-01T07:38:31-08:00</published>
+    <updated>2020-12-01T07:38:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/penacho-classic-ring"/>
+    <title>PENACHO CLASSIC RING</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-09-2315-43-10.jpg?v=1606837112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            1890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Heart Penacho Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold ring</li>
+<li data-mce-fragment="1">Set with 0.30 ctw withe diamond</li>
+<li data-mce-fragment="1">Set with 0.34 ctw Lapis</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PENACHO</s:tag>
+    <s:tag>ring</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108531851437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1890.00</s:price>
+      <s:sku>RIPN024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108510388397</id>
+    <published>2020-12-01T07:26:01-08:00</published>
+    <updated>2020-12-01T07:26:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/penacho-classic-ring-onyx"/>
+    <title>PENACHO CLASSIC RING Onyx</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-09-2315-43-22.jpg?v=1616770971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            1890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Heart Penacho Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold ring</li>
+<li data-mce-fragment="1">Set with 0.30 ctw withe diamond</li>
+<li data-mce-fragment="1">Set with 0.32 ctw malachite</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PENACHO</s:tag>
+    <s:tag>ring</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108510388397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1890.00</s:price>
+      <s:sku>RIPN023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108502786221</id>
+    <published>2020-12-01T07:21:02-08:00</published>
+    <updated>2020-12-01T07:21:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/penacho-classic-ring-malachite"/>
+    <title>PENACHO CLASSIC RING Malachite</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-09-2315-43-20.jpg?v=1616771041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            1890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Classic Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold ring</li>
+<li data-mce-fragment="1">Set with 0.30 ctw withe diamond</li>
+<li data-mce-fragment="1">Set with 1.38 ctw malachite</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>malachite</s:tag>
+    <s:tag>PENACHO</s:tag>
+    <s:tag>ring</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108502786221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1890.00</s:price>
+      <s:sku>RIPN022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108498952365</id>
+    <published>2020-12-01T07:18:42-08:00</published>
+    <updated>2020-12-01T07:18:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/penacho-heart-diamonds"/>
+    <title>PENACHO HEART DIAMONDS</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-09-2315-43-01.jpg?v=1606835924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            6640.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Heart Penacho Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold ring</li>
+<li data-mce-fragment="1">Set with 0.64 ctw withe diamond</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>PENACHO</s:tag>
+    <s:tag>ring</s:tag>
+    <s:tag>white diamonds</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108498952365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6640.00</s:price>
+      <s:sku>RIPN021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108495741101</id>
+    <published>2020-12-01T07:16:36-08:00</published>
+    <updated>2020-12-01T07:16:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/penacho-heart-tiger-eyes"/>
+    <title>PENACHO HEART Tiger Eyes</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-09-2315-42-57.jpg?v=1616771053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            3320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Heart Penacho Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold ring</li>
+<li data-mce-fragment="1">Set with 0.30 ctw withe diamond</li>
+<li data-mce-fragment="1">Set with 0.32 ctw Tiger Eyes Yellow</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hardstone</s:tag>
+    <s:tag>penacho</s:tag>
+    <s:tag>ring</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108495741101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3320.00</s:price>
+      <s:sku>RIPN019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108487090349</id>
+    <published>2020-12-01T07:10:57-08:00</published>
+    <updated>2020-12-01T07:10:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/penacho-heart-harstone"/>
+    <title>PENACHO HEART Lapis</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-09-2315-42-54.jpg?v=1606835458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            3320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Heart Penacho Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow<span data-mce-fragment="1"> </span>gold ring</li>
+<li data-mce-fragment="1">Set with<span data-mce-fragment="1"> </span>0.30 ctw withe<span data-mce-fragment="1"> </span>diamond</li>
+<li data-mce-fragment="1">Set with<span data-mce-fragment="1"> </span>1.07<span data-mce-fragment="1"> </span>ctw lapis</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>penacho</s:tag>
+    <s:tag>ring</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108487090349</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3320.00</s:price>
+      <s:sku>RIPN018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108484501677</id>
+    <published>2020-12-01T07:09:02-08:00</published>
+    <updated>2020-12-01T07:09:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/penacho-heart-malachite"/>
+    <title>PENACHO HEART Malachite</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/PHOTO-2021-03-08-17-26-506.jpg?v=1616759420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            3320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Heart Penacho Ring</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold ring</li>
+<li data-mce-fragment="1">Set with 0.30 ctw withe diamond</li>
+<li data-mce-fragment="1">Set with 1.38 ctw malachite</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HARDSTONE</s:tag>
+    <s:tag>PENACHO</s:tag>
+    <s:tag>ring</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108484501677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3320.00</s:price>
+      <s:sku>RIPN017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+    <published>2020-11-27T05:59:31-08:00</published>
+    <updated>2020-11-27T05:59:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/copy-of-maasai-pave-square-band-1"/>
+    <title>Maasai Pave Square Band - Four Colors</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/image00022.jpg?v=1588708875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maasai Pave Square Band </p>
+<ul>
+<li>18-karat yellow gold ring</li>
+<li>Set with 0.13 ctw white diamond heart shape</li>
+<li>Set with 0.10 btw white diamond pave </li>
+<li>Measures 2 mm thick</li>
+</ul>
+<ul>
+<li>
+<span></span>Brilliant Cut</li>
+<li>
+<span></span>Color: H-G</li>
+<li>
+<span></span>Clarity: VS1-VS2</li>
+<li>
+<span></span>Conflict free diamonds</li>
+</ul>
+<p> </p>
+<ul>
+<li>Ships Immediately</li>
+</ul>
+<p><br></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Maasai</s:tag>
+    <s:tag>ring</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 5.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 6</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 6.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 7</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 7.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 8</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 8.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Yellow Gold / 9</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 5.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 6</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 6.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 7</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 7.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 8</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 8.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>White Gold / 9</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 5.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 6</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 6.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 7</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 7.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 8</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 8.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Rose Gold / 9</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 5.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 6</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 6.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 7</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 7.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 8</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 8.5</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4997056659589</id>
+      <title>Black Gold / 9</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6099071631533</id>
+    <published>2020-11-27T03:05:56-08:00</published>
+    <updated>2020-11-27T03:05:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/moon-and-stars-signet-eye-of-tiger-harstone"/>
+    <title>Moon and Stars Hardstone Eye of Tiger</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2019-10-3015-57-02.jpg?v=1606475158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Moon and Stars Signet <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars.  </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat gold ring </li>
+<li data-mce-fragment="1">Set with 0.043 ctw white diamonds </li>
+<li data-mce-fragment="1">Hardstone tigers eye</li>
+<li data-mce-fragment="1">Measurements 1.3 cm diameter</li>
+<li data-mce-fragment="1">Slip On</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 to 3 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6099071631533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2650.00</s:price>
+      <s:sku>RIGA368</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6099069501613</id>
+    <published>2020-11-27T03:04:21-08:00</published>
+    <updated>2020-11-27T03:04:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/moon-and-stars-signet-hardstone-onyx"/>
+    <title>Moon and Stars Signet Hardstone Onyx</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/1_1be26d04-5971-43de-9db4-256b3cd363fa.jpg?v=1606475062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Moon and Stars Signet <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars.  </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat gold ring Yellow or White</li>
+<li data-mce-fragment="1">Set with 0.043 ctw white diamonds </li>
+<li data-mce-fragment="1">Hardstone onyx</li>
+<li data-mce-fragment="1">Measurements 1.3 cm diameter</li>
+<li data-mce-fragment="1">Slip On</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 to 3 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6099069501613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2650.00</s:price>
+      <s:sku>RIGA365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6099066814637</id>
+    <published>2020-11-27T03:02:01-08:00</published>
+    <updated>2020-11-27T03:02:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/moon-and-stars-signet-lapis"/>
+    <title>Moon and Stars Signet Hardstone Lapis</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2019-10-0715-55-32.jpg?v=1606474922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Moon and Stars Signet <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars.  </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat gold ring </li>
+<li data-mce-fragment="1">Set with 0.043 ctw white diamonds </li>
+<li data-mce-fragment="1">Hardstone lapis</li>
+<li data-mce-fragment="1">Measurements 1.3 cm diameter</li>
+<li data-mce-fragment="1">Slip On</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 to 3 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6099066814637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2650.00</s:price>
+      <s:sku>RIGA366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6099064160429</id>
+    <published>2020-11-27T03:00:26-08:00</published>
+    <updated>2020-11-27T03:00:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/moon-and-stars-signet-hardstone-mother-of-pearl"/>
+    <title>Moon and Stars Signet Hardstone Mother of Pearl</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2019-10-0715-55-41.jpg?v=1606474828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Moon and Stars Signet <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars.  </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat gold ring </li>
+<li data-mce-fragment="1">Set with 0.043 ctw white diamonds </li>
+<li data-mce-fragment="1">Hardstone mother of pearl </li>
+<li data-mce-fragment="1">Measurements 1.3 cm diameter</li>
+<li data-mce-fragment="1">Slip On</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 to 3 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6099064160429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2650.00</s:price>
+      <s:sku>RIGA369</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6099033882797</id>
+    <published>2020-11-27T02:41:01-08:00</published>
+    <updated>2020-11-27T02:41:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/moon-stars-signet-hardstone-malachite"/>
+    <title>Moon and Stars Signet Hardstone Malachite</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2019-10-3015-57-22.jpg?v=1606473663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Moon and Stars Signet <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars.  </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat gold ring </li>
+<li data-mce-fragment="1">Set with 0.043 ctw white diamonds </li>
+<li data-mce-fragment="1">Hardstone malachite</li>
+<li data-mce-fragment="1">Measurements 1.3 cm diameter</li>
+<li data-mce-fragment="1">Slip On</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships in 2 to 3 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6099033882797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2650.00</s:price>
+      <s:sku>riga364</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

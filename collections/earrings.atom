@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://colettejewelry.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://colettejewelry.myshopify.com/collections/earrings.atom"/>
+  <title>Colette Jewelry</title>
+  <updated>2021-03-26T04:44:46-07:00</updated>
+  <author>
+    <name>Colette Jewelry</name>
+  </author>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6106298384557</id>
+    <published>2021-03-26T04:44:46-07:00</published>
+    <updated>2021-03-26T04:44:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/colette-x-muzo-penacho-earrings"/>
+    <title>Colette X Muzo</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-12-0215-41-38.jpg?v=1607030928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            52000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">As part of a collaboration with Muzo Emeralds, the Colette x Muzo earrings are a variation on Colette’s signature Penacho designs, created as an homage to her Mexican heritage.</p>
+<p data-mce-fragment="1">Infusing striking Aztec-inspired design with Muzo’s vibrant Colombian emeralds, the earrings capture the richness of Latin American culture. </p>
+<div class="page" title="Page 4">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li><span>18K White Gold </span></li>
+<li><span>3.6 ctw Onyx </span></li>
+<li><span>3.0ctw Malachite </span></li>
+<li><span>1.50 ctw WDia </span></li>
+<li><span>4.32 ctw Emerald from Columbia</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colette X Muzo</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>Emerald</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6106298384557</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52000.00</s:price>
+      <s:sku>EAMU001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/9916769170</id>
+    <published>2021-02-17T01:44:35-08:00</published>
+    <updated>2021-02-17T01:44:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/bow-stud-earrings"/>
+    <title>Bow Studs</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2017-06-22_13-50-29_C.jpg?v=1587401164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            3800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span> Bow Studs </span></p>
+<p><span>The Atame Collection is the physical embodiment of the liaison between lovers; totally attached, very fluid and romantic. “Atame” meaning “tie me up” in Spanish, is all about lovers sharing a life, while equally being tied up in one another. </span></p>
+<ul>
+<li>18-karat white gold studs</li>
+<li>Set with 0.30 ctw white diamonds</li>
+<li>Measurements 1.2 cm wide by 1.3 cm long </li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships Immediately </li>
+</ul>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/9916769170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3800.00</s:price>
+      <s:sku>EAAT033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/9916908178</id>
+    <published>2021-02-17T01:34:43-08:00</published>
+    <updated>2021-02-17T01:34:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/bow-hoop-earrings"/>
+    <title>Single Bow Hoop Earrings White Gold or Black Gold</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2017-06-22_13-49-07_C.jpg?v=1588121679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            1675.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Bow Hoop Earrings</span></p>
+<p style="display: inline !important;">The Atame Collection is the physical embodiment of the liaison between lovers; totally attached, very fluid and romantic. “Atame” meaning “tie me up” in Spanish, is all about lovers sharing a life, while equally being tied up in one another. </p>
+<ul>
+<li>18-karat black gold earrings</li>
+<li>Set with 1.27 ctw black diamonds</li>
+<li>Measurements 3.6 cm wide by 4 cm long</li>
+</ul>
+<ul>
+<li>Ships in 3 to 4 weeks </li>
+</ul>
+<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/9916908178</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1675.00</s:price>
+      <s:sku>EAAT035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/23713742866</id>
+    <published>2021-02-17T01:27:53-08:00</published>
+    <updated>2021-02-17T01:27:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/bow-hoop-earrings-2"/>
+    <title>Bow Hoop Earrings</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2017-10-17_13-16-33_C.jpg?v=1544064185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            6920.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<meta charset="utf-8">
+<p><span>Bow Hoops Earrings </span></p>
+<p><span>The Atame Collection is the physical embodiment of the liaison between lovers; totally attached, very fluid and romantic. “Atame” meaning “tie me up” in Spanish, is all about lovers sharing a life, while equally being tied up in one another. </span></p>
+<ul>
+<li>18-karat white gold earrings</li>
+<li>Set with 0.92 ctw white diamonds</li>
+<li>Measurements 3.6 cm wide by 4 cm long</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships Immediately </li>
+</ul>
+<p> </p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/23713742866</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6920.00</s:price>
+      <s:sku>EAAT039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4970776559749</id>
+    <published>2020-12-03T11:13:32-08:00</published>
+    <updated>2020-12-03T11:13:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/copy-of-perseus-earrings"/>
+    <title>Perseus Earrings</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/IMG_2357_Facetune_24-04-2020-15-10-192.jpg?v=1616666330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8477.70 - 14515.00
+            <a href="https://colettejewelry.myshopify.com/products/copy-of-perseus-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Perseus Black Earrings </p>
+<p>Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars. </p>
+<ul>
+<li>18-karat white gold earrings </li>
+<li>Set with 0.20 ctw white diamonds</li>
+<li>Set with 1.45 ctw black diamonds</li>
+<li>Set with Japanese Pearl </li>
+<li>Measurements 2.7 cm wide by 5.5 cm long </li>
+<li>Butterfly fastening for pierced ears</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships in 3 to 4 weeks</li>
+</ul>
+<meta charset="utf-8">
+<p><br></p>
+<ul></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4970776559749</id>
+      <title>White</title>
+      <s:price currency="USD">14515.00</s:price>
+      <s:sku>EAGA303</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4970776559749</id>
+      <title>Black</title>
+      <s:price currency="USD">8477.70</s:price>
+      <s:sku>EAGA284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108673999021</id>
+    <published>2020-12-01T09:07:44-08:00</published>
+    <updated>2020-12-01T09:07:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/mini-penacho-earrings-1"/>
+    <title>PENACHO FAN EARRINGS</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/IMG_2207.jpg?v=1606842465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            5300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Mini Penacho Studs</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat white gold earrings </li>
+<li data-mce-fragment="1">Set with 0.90 ctw white diamonds</li>
+<li data-mce-fragment="1">Set with 0.27 ctw pearls </li>
+<li data-mce-fragment="1">Set with 0.12 ctw black diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships Immediately </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108673999021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108667871405</id>
+    <published>2020-12-01T09:04:23-08:00</published>
+    <updated>2020-12-01T09:04:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/mini-peancho-earrings-diamonds-and-white-gold"/>
+    <title>Penacho Fan Earrings Diamonds and white gold</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-11-0915-34-06.jpg?v=1606842264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            5300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Mini Penacho Earrings</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat white gold earrings </li>
+<li data-mce-fragment="1">Set with 1.90 ctw white diamonds</li>
+</ul>
+<p> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships Immediately </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108667871405</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5300.00</s:price>
+      <s:sku>EAPN004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108662038701</id>
+    <published>2020-12-01T09:01:44-08:00</published>
+    <updated>2020-12-01T09:01:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/mini-penacho-earrings-diamonds-gold"/>
+    <title>PENACHO FAN EARRINGS diamonds &amp; gold</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-11-0915-34-09.jpg?v=1610374549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            5300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Mini Penacho Earrings</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold earrings </li>
+<li data-mce-fragment="1">Set with 1.90 ctw white diamonds</li>
+</ul>
+<p> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships Immediately </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108662038701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5300.00</s:price>
+      <s:sku>EAPN010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108649685165</id>
+    <published>2020-12-01T08:54:37-08:00</published>
+    <updated>2020-12-01T08:54:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/mini-penacho-studs-tiger-eyes"/>
+    <title>Mini Penacho Studs Tiger Eyes</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-11-0915-34-17.jpg?v=1606841679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            7900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Mini Penacho Studs</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat white gold earrings </li>
+<li data-mce-fragment="1">Set with 0.38 ctw white diamonds</li>
+<li data-mce-fragment="1">Set with 1.26 ctw lapis</li>
+<li data-mce-fragment="1">Set with 1.57 ctw Tiger Eyes Yellow</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships Immediately </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:tag>PENACHO</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108649685165</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7900.00</s:price>
+      <s:sku>EAPN032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108642476205</id>
+    <published>2020-12-01T08:49:59-08:00</published>
+    <updated>2020-12-01T08:49:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/mini-penacho-studs-onyx"/>
+    <title>Mini Penacho Studs Onyx</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-11-0915-34-15.jpg?v=1606841402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            7500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Mini Penacho Studs</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses. Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold earrings </li>
+<li data-mce-fragment="1">Set with 0.37 ctw white diamonds</li>
+<li data-mce-fragment="1">Set with 1.14 ctw pearls </li>
+<li data-mce-fragment="1">Set with 1.37 ctw Onyx</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Brilliant Cut</li>
+<li data-mce-fragment="1">Color: H-G</li>
+<li data-mce-fragment="1">Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships Immediately </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108642476205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7500.00</s:price>
+      <s:sku>EAPN031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108631433389</id>
+    <published>2020-12-01T08:43:31-08:00</published>
+    <updated>2020-12-01T08:43:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/mini-penacho-earrings-diamonds-mop"/>
+    <title>PENACHO FAN EARRINGS Diamonds &amp; MOP</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-11-0915-34-02.jpg?v=1606841013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            5300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Mini Penacho Earring </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat white gold earrings</li>
+<li data-mce-fragment="1">Set with 0.38 ctw white diamond</li>
+<li data-mce-fragment="1">Set with 0.38 ctw black diamond</li>
+<li data-mce-fragment="1">Set with MOP</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Brilliant Cut</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships to 4 to 6 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:tag>PENACHO</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108631433389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5300.00</s:price>
+      <s:sku>EAST011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/6108603318445</id>
+    <published>2020-12-01T08:26:52-08:00</published>
+    <updated>2020-12-01T08:26:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/mini-penacho-earrings-malachite"/>
+    <title>PENACHO FAN EARRINGS Malachite</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2020-11-0915-34-04.jpg?v=1606840013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            5300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Mini Penacho Earring </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Penacho is inspired by Colette’s Mexican heritage, paying homage to Aztec culture. In creating this vibrant collection, Colette looked to traditional Aztec regalia, and was influenced by the importance of feathers in Aztecan headdresses. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Traditional headdresses are made with vibrant feathers, similar to that of a hummingbird.  Huitzilopochtli, translating to “Hummingbird of the Left”, is the God of sun and war.  Aztecs believed that warriors who lost their lives in battle would return as hummingbirds.  Colette carefully selected hard stones such as malachite, lápiz lazuli, onyx, mother of pearl and diamonds for the foundation of this collection. Set in 18-karat gold, Penacho brings to life the beauty of the Mexican and Aztec culture.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18-karat yellow gold earrings</li>
+<li data-mce-fragment="1">Set with 0.38 ctw white diamond</li>
+<li data-mce-fragment="1">0.75 carats of Onyx</li>
+<li data-mce-fragment="1">1.36 carats of Malachite</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Brilliant Cut</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Color: H-G</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Clarity: VS1-VS2</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1"></span>Conflict free diamonds</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ships to 4 to 6 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earring</s:tag>
+    <s:tag>PENACHO</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/6108603318445</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5300.00</s:price>
+      <s:sku>EAST006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/1879587586109</id>
+    <published>2020-11-26T07:29:33-08:00</published>
+    <updated>2020-11-26T07:29:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/blue-star-enamel"/>
+    <title>Blue Star Enamel Ear cuff</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2019-03-12_15-59-23.jpg?v=1555965366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            2088.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Blue Star Enamel Ear cuff</p>
+<p><meta charset="utf-8"><span>Colette began working with colorful enamel as a way of injecting a little humor &amp; playfulness into her most recognized collection, Galaxia. Highly influenced by Warhol &amp; Kandinsky, this series features a punchy color palette that meant to evoke a feeling of pure joy. </span></p>
+<p>18-Karat white gold Blue Ear cuff</p>
+<ul>
+<li>Set with 1.14 carats of white diamonds</li>
+<li>Blue enamel</li>
+<li>Slip on</li>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<p><i>Made in the USA</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/1879587586109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2088.00</s:price>
+      <s:sku>EAGA347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/183517118482</id>
+    <published>2020-11-26T07:24:30-08:00</published>
+    <updated>2020-11-26T07:24:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/star-studs-2"/>
+    <title>Hardstone Studs Malachite</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2017-10-13_10-32-16_C_b.jpg?v=1534814958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>18-Karat rose gold Green Star Studs</p>
+<ul>
+<li>Set with 0.14 carats of white diamonds </li>
+<li>Malachite</li>
+<li>Butterfly fastening for pierced ears</li>
+<li>Earrings measure 1 centimeters</li>
+<li>Weight 1 grams</li>
+<li>
+<span></span>Brilliant Cut</li>
+<li>
+<span></span>Color: H-G</li>
+<li>
+<span></span>Clarity: VS1-VS2</li>
+<li>
+<span></span>Conflict free diamonds</li>
+</ul>
+<meta charset="utf-8">
+<p>Colette began working with colorful enamel as a way of injecting a little humor &amp; playfulness into her most recognized collection, Galaxia. Highly influenced by Warhol &amp; Kandinsky, this series features a punchy color palette that meant to evoke a feeling of pure joy. </p>
+<p> </p>
+<p><em>This product may not be in stock. In the case it is custom please allow 2-3 weeks for production and shipment, possibly sooner. We will send a confirmation of the order email to make sure of the details.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/183517118482</id>
+      <title>Default Title</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>EAGA222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/10419203666</id>
+    <published>2020-05-05T18:47:30-07:00</published>
+    <updated>2020-05-05T18:47:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/the-moon"/>
+    <title>Moon Shadow Duster</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2017-10-17_13-23-36_C__preview.jpg?v=1588730343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            9660.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moon Shadow Duster </p>
+<p><span>Our signature Galaxia collection features a wide spectrum of styles designed to intrigue anyone feigning interest in the Cosmos. Embellished with black and white diamonds, pearls and moonstones, this collection uses many of Earths stunning materials to reflect the galaxy surrounding us. As vast as the universe may be, all of us must remember that we are amongst the stars. </span></p>
+<ul>
+<li>Set with .73 carats of white diamonds</li>
+<li>Measurements 3" long </li>
+<li>0.82 ctw white diamonds </li>
+<li>Japanese Pearls </li>
+<li>.10 ct black diamonds</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color H-G</li>
+<li>Clarity VS1-VS</li>
+<li>Conflict free diamonds </li>
+</ul>
+<ul>
+<li>Ships immediately</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/10419203666</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9660.00</s:price>
+      <s:sku>EAGA197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4368619831429</id>
+    <published>2020-05-05T09:46:28-07:00</published>
+    <updated>2020-05-05T09:46:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/maasai-hoops"/>
+    <title>Medium Maasai Hoop - Four Colors</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/10R.jpg?v=1574278940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maasai Hoop</p>
+<ul>
+<li>18-karat rose gold</li>
+<li>Sold as a single</li>
+<li>Measurements 1.6 cm long</li>
+<li>2 mm thick </li>
+</ul>
+<ul>
+<li>Ships in 2 weeks </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:tag>Maasai</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4368619831429</id>
+      <title>White Gold</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>EA75811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4368619831429</id>
+      <title>Yellow Gold</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>EA75811-Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4368619831429</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>EA75811-R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4368619831429</id>
+      <title>Black Gold</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>EA75811-B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/5784293509</id>
+    <published>2020-04-29T16:21:20-07:00</published>
+    <updated>2020-04-29T16:21:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/silybum-ear-cuff"/>
+    <title>Silybum Ear Cuff</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/EABT006.jpg?v=1554403164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sillybum Ear Cuff<br></p>
+<p><span>Burning Thistles is a collection of delicate gold vines among pearls and diamonds that are reminiscent of the ivy-lined facades of architecture in Colette’s hometown, Paris.</span><em> </em></p>
+<ul>
+<li>18-karat rose gold ear cuff</li>
+<li>Set with 0.18 ctw black diamonds </li>
+<li>Set with Akoya Pearls </li>
+<li>Measurements Approx. 1.2 cm </li>
+<li>Slip on cuff</li>
+</ul>
+<ul>
+<li>Ships Immediately </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/5784293509</id>
+      <title>Right / White Gold</title>
+      <s:price currency="USD">720.00</s:price>
+      <s:sku>EABT006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/5784293509</id>
+      <title>Left / White Gold</title>
+      <s:price currency="USD">720.00</s:price>
+      <s:sku>EABT006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/3344877957</id>
+    <published>2020-04-29T15:34:29-07:00</published>
+    <updated>2020-04-29T15:34:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/mixed-signals"/>
+    <title>Stacked Ear Cuff</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/2015-11-19_14-37-59_B_R8_S4__preview.jpg?v=1588364851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stacked Ear Cuff</p>
+<p><span>While traveling in Africa, Colette spent much of her time with women of the Maasai tribe. She loved the necklaces and bracelets that they wore, made of stacked beaded rings, and designed Entwined with You: a collection with pieces that can be layered and stacked to create your own personal story.</span></p>
+<ul>
+<li>18-karat black gold ear cuff </li>
+<li>Set with 0.38 ctw white diamonds</li>
+<li>Set with Akoya Pearls </li>
+<li><span>Five strand ear cuff molded together </span></li>
+<li>Measurements 1.14 cm </li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color H-G </li>
+<li>Clarity VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships in 3 to 4 weeks </li>
+</ul>
+<meta charset="utf-8">
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/3344877957</id>
+      <title>White Diamond</title>
+      <s:price currency="USD">2650.00</s:price>
+      <s:sku>EAEN040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4994664595589</id>
+    <published>2020-04-29T11:11:00-07:00</published>
+    <updated>2020-04-29T11:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/sivas-ear-cuff"/>
+    <title>Sivas Ear Cuff</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/EABD002.jpg?v=1588183886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            3400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sivas  Ear Cuff</span></p>
+<p><span>A free-spirited collection, Blue Drift features artful and delicate doves encrusted in black and white diamonds.</span></p>
+<ul>
+<li>18-karat white gold ear cuff </li>
+<li>Set with 0.60 ctw White Diamonds</li>
+<li>Slips on</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color H-G</li>
+<li>Clarity VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships Immediately </li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994664595589</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4994579464325</id>
+    <published>2020-04-29T10:29:46-07:00</published>
+    <updated>2020-04-29T10:29:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/copy-of-sivas-ear-cuff"/>
+    <title>Sivas Ear Cuff</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/e1.jpg?v=1588181425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            1950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sivas  Ear Cuff</span></p>
+<p><span>A free-spirited collection, Blue Drift features artful and delicate doves encrusted in black and white diamonds.</span></p>
+<ul>
+<li>18-karat black gold ear cuff </li>
+<li>Set with  0.60 ctw Black Diamonds</li>
+<li>Slips on</li>
+</ul>
+<ul>
+<li>Ships in 4 to 6 weeks </li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994579464325</id>
+      <title>RIGHT / Black</title>
+      <s:price currency="USD">1950.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994579464325</id>
+      <title>LEFT / Black</title>
+      <s:price currency="USD">1950.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4994534572165</id>
+    <published>2020-04-29T10:12:48-07:00</published>
+    <updated>2020-04-29T10:12:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/copy-of-hatay-studs"/>
+    <title>Hatay Studs</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/d1.jpg?v=1588180598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            3580.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> Hatay Bird Studs</span></p>
+<p><span>A free-spirited collection, Blue Drift features artful and delicate doves encrusted in black and white diamonds.</span></p>
+<ul>
+<li>18-karat white gold earrings</li>
+<li>Measurements 1" wide by 2" long </li>
+<li>Set with 0.50 ctw white diamonds </li>
+<li>Set with 0.30 ctw white diamonds </li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color H-G </li>
+<li>Clarity VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships in 4 to 6 weeks </li>
+</ul>
+<p><em></em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994534572165</id>
+      <title>Ombré</title>
+      <s:price currency="USD">3580.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4994522873989</id>
+    <published>2020-04-29T09:22:50-07:00</published>
+    <updated>2020-04-29T09:22:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/copy-of-edirne-wing-studs"/>
+    <title>Edirne Wing Studs</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/EABD020_preview.jpg?v=1588180207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            7200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span> Edirne Wing Studs</span></p>
+<p><span>A free-spirited collection, Blue Drift features artful and delicate doves encrusted in black and white diamonds.</span></p>
+<meta charset="utf-8">
+<ul>
+<li>18-karat white gold earrings</li>
+<li>Measurements .70" wide by .90" long </li>
+<li>Set with 1.35 ctw white diamonds</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships Immediately </li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994522873989</id>
+      <title>White</title>
+      <s:price currency="USD">7200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4994511241349</id>
+    <published>2020-04-29T09:22:50-07:00</published>
+    <updated>2020-04-29T09:22:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/copy-of-antalya-ear-cuff"/>
+    <title>Antalya Ear Cuff</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/3_fffb9477-a5a8-4712-93e3-bc89c7444317.jpg?v=1588179907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            7050.00 - 9770.00
+            <a href="https://colettejewelry.myshopify.com/products/copy-of-antalya-ear-cuff">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> Antalya Feather Earring Cuff</span></p>
+<p><span>A free-spirited collection, Blue Drift features artful and delicate doves encrusted in black and white diamonds. </span></p>
+<ul>
+<li>18-karat white gold ear cuff</li>
+<li>Set with 1.83 ctw white diamonds</li>
+<li>Set with 0.73 ctw black diamonds</li>
+<li>Measurements 1" wide by 2" long</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color: H-G</li>
+<li>Clarity: VS1-VS2</li>
+<li>Conflict free diamonds</li>
+</ul>
+<ul>
+<li>Ships Immediately </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994511241349</id>
+      <title>RIGHT / B &amp; W</title>
+      <s:price currency="USD">7050.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994511241349</id>
+      <title>RIGHT / White</title>
+      <s:price currency="USD">9770.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994511241349</id>
+      <title>LEFT / B &amp; W</title>
+      <s:price currency="USD">7050.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4994511241349</id>
+      <title>LEFT / White</title>
+      <s:price currency="USD">9770.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4979865223301</id>
+    <published>2020-04-24T16:19:10-07:00</published>
+    <updated>2020-04-24T16:19:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/copy-of-3d-lobe-cuff-1"/>
+    <title>3D Lobe Cuff</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/104031.jpg?v=1587770429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            2080.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">3D Lobe Cuff </p>
+<p class="p1"><span>While traveling in Africa, Colette spent much of her time with women of the Maasai tribe. She loved the necklaces and bracelets that they wore, made of stacked beaded rings, and designed Entwined with You: a collection with pieces that can be layered and stacked to create your own personal story.</span></p>
+<ul>
+<li>18-karat rose gold earring </li>
+<li>Set with 0.26 ctw white diamonds </li>
+<li>Set with Akoya Pearls </li>
+<li>Measurements .7 mm wide by 2 cm wide</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color H-G</li>
+<li>Clarity VS1 - VS2</li>
+<li>Conflict free diamonds </li>
+</ul>
+<ul>
+<li>Ships Immediately </li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4979865223301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2080.00</s:price>
+      <s:sku>EAEN092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://colettejewelry.myshopify.com/products/4979844612229</id>
+    <published>2020-04-24T16:15:11-07:00</published>
+    <updated>2020-04-24T16:15:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://colettejewelry.myshopify.com/products/copy-of-3d-lobe-cuff"/>
+    <title>3D Lobe Cuff</title>
+    <s:type>Earring</s:type>
+    <s:vendor>Colette Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0934/3824/products/f.jpg?v=1587770166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colette Jewelry<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            2080.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">3D Lobe Cuff </p>
+<p class="p1"><span>While traveling in Africa, Colette spent much of her time with women of the Maasai tribe. She loved the necklaces and bracelets that they wore, made of stacked beaded rings, and designed Entwined with You: a collection with pieces that can be layered and stacked to create your own personal story.</span></p>
+<ul>
+<li>18-karat white gold earring </li>
+<li>Set with 0.26 ctw white diamonds </li>
+<li>Set with Akoya Pearls </li>
+<li>Measurements .7 mm wide by 2 cm wide</li>
+</ul>
+<ul>
+<li>Brilliant Cut</li>
+<li>Color H-G</li>
+<li>Clarity VS1 - VS2</li>
+<li>Conflict free diamonds </li>
+</ul>
+<ul>
+<li>Ships Immediately  </li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://colettejewelry.myshopify.com/products/4979844612229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2080.00</s:price>
+      <s:sku>EAEN092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
